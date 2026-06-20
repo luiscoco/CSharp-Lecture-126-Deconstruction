@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeconstructionPracticeLab.Tests/DeconstructionPracticeLab.Tests.csproj" />
+  <Project Path="DeconstructionPracticeLab/DeconstructionPracticeLab.csproj" />
+</Solution>

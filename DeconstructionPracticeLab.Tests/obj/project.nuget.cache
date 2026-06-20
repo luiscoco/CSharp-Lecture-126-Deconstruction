@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdeSYjCLZ4Y=",
+  "success": false,
+  "projectFilePath": "C:\\Learn C#\\4. Practice Prompts\\Lecture 126 - Deconstruction\\DeconstructionPracticeLab.Tests\\DeconstructionPracticeLab.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.\r\n  Intento de acceso a un socket no permitido por sus permisos de acceso. (api.nuget.org:443)\r\n  Intento de acceso a un socket no permitido por sus permisos de acceso.",
+      "projectPath": "C:\\Learn C#\\4. Practice Prompts\\Lecture 126 - Deconstruction\\DeconstructionPracticeLab.Tests\\DeconstructionPracticeLab.Tests.csproj",
+      "filePath": "C:\\Learn C#\\4. Practice Prompts\\Lecture 126 - Deconstruction\\DeconstructionPracticeLab.Tests\\DeconstructionPracticeLab.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

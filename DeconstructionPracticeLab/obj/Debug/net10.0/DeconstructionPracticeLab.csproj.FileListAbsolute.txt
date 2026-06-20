@@ -1,0 +1,15 @@
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\bin\Debug\net10.0\DeconstructionPracticeLab.exe
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\bin\Debug\net10.0\DeconstructionPracticeLab.deps.json
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\bin\Debug\net10.0\DeconstructionPracticeLab.runtimeconfig.json
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\bin\Debug\net10.0\DeconstructionPracticeLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\bin\Debug\net10.0\DeconstructionPracticeLab.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.AssemblyInfoInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.AssemblyInfo.cs
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.csproj.CoreCompileInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.sourcelink.json
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\refint\DeconstructionPracticeLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\DeconstructionPracticeLab.genruntimeconfig.cache
+C:\Learn C#\4. Practice Prompts\Lecture 126 - Deconstruction\DeconstructionPracticeLab\obj\Debug\net10.0\ref\DeconstructionPracticeLab.dll
